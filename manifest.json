@@ -1,0 +1,9 @@
+{
+  "name": "Color Grafic Store",
+  "short_name": "Color Grafic",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4fff6",
+  "theme_color": "#0b8f2f",
+  "description": "Color Grafic Foto Point online store"
+}
